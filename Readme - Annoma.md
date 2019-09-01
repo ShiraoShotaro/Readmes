@@ -64,21 +64,21 @@ Annomaフォルダの下に、Annoma_setupシーンを開きます。
 その中に以下のオブジェクトがあります。
 
 - Annoma_model_v1_1_White
-    白衣・結合前 DynamicBone設定なし
+    - 白衣・結合前 DynamicBone設定なし
 - Annoma_model_v1_1_Black
-    黒衣・結合前 DynamicBone設定なし
+    - 黒衣・結合前 DynamicBone設定なし
 - AnnomaV1_1CombinedWhite
-    白衣・結合後 DynamicBone設定なし
+    - 白衣・結合後 DynamicBone設定なし
 - AnnomaV1_1CombinedBlack
-    黒衣・結合後 DynamicBone設定なし
+    - 黒衣・結合後 DynamicBone設定なし
 - AnnomaV1_1_PedestalWhite
-    白衣・結合後 ペデスタル用
+    - 白衣・結合後 ペデスタル用
 - AnnomaV1_1_PedestalBlack
-    黒衣・結合後 ペデスタル用
+    - 黒衣・結合後 ペデスタル用
 - AnnomaV1_1_WhiteFull
-    白衣・結合後 Very Poor設定
+    - 白衣・結合後 Very Poor設定
 - AnnomaV1_1_BlackFull
-    黒衣・結合後 Very Poor設定
+    - 黒衣・結合後 Very Poor設定
 
 # 利用における規約
 
